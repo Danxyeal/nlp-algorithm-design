@@ -1,0 +1,103 @@
+html, {}, Print        Model Number : N50 >        N50-AS031CN50-123456N50-234567DisplayPanel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free Video FeatureSPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay WidgetConvenient HotkeyBlue Light Filter  I/O PortsSignal Input : USB Type-C 	    Power ConsumptionPower Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0WMechanical DesignChassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      DimensionsPhys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      WeightNet Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      AccessoriesASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      OS CompatibilityMicrosoft Windows, Mac OS, Chrome OS, Linux	      Compliance and StandardsEnergy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      Note		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      Buy Microsoft ® Office 2010 to use the full-featured Office software on this PC.
+body, {}, Print        Model Number : N50 >        N50-AS031CN50-123456N50-234567DisplayPanel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free Video FeatureSPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay WidgetConvenient HotkeyBlue Light Filter  I/O PortsSignal Input : USB Type-C 	    Power ConsumptionPower Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0WMechanical DesignChassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      DimensionsPhys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      WeightNet Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      AccessoriesASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      OS CompatibilityMicrosoft Windows, Mac OS, Chrome OS, Linux	      Compliance and StandardsEnergy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      Note		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      Buy Microsoft ® Office 2010 to use the full-featured Office software on this PC.
+div, {'id': 'specifications', 'class': [], 'style': 'display: block;'}, Print        Model Number : N50 >        N50-AS031CN50-123456N50-234567DisplayPanel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free Video FeatureSPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay WidgetConvenient HotkeyBlue Light Filter  I/O PortsSignal Input : USB Type-C 	    Power ConsumptionPower Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0WMechanical DesignChassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      DimensionsPhys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      WeightNet Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      AccessoriesASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      OS CompatibilityMicrosoft Windows, Mac OS, Chrome OS, Linux	      Compliance and StandardsEnergy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      Note		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      Buy Microsoft ® Office 2010 to use the full-featured Office software on this PC.
+aside, {'class': ['product-aside', 'row']}, Print
+div, {'id': 'aside-button', 'class': ['span12']}, Print
+a, {'href': 'javascript:void(0)', 'class': ['print-btn', 'pull-right'], 'onclick': 'open_printer()'}, Print
+div, {'id': 'model_number', 'class': ['hide']},         Model Number : N50 >        N50-AS031CN50-123456N50-234567
+select, {'name': 'modelnumber'}, N50-AS031CN50-123456N50-234567
+option, {}, N50-AS031C
+option, {}, N50-123456
+option, {}, N50-234567
+div, {'id': 'spec-area', 'class': ['row']}, DisplayPanel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free Video FeatureSPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay WidgetConvenient HotkeyBlue Light Filter  I/O PortsSignal Input : USB Type-C 	    Power ConsumptionPower Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0WMechanical DesignChassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      DimensionsPhys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      WeightNet Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      AccessoriesASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      OS CompatibilityMicrosoft Windows, Mac OS, Chrome OS, Linux	      Compliance and StandardsEnergy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      Note		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      
+ul, {'class': ['product-spec']}, DisplayPanel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free Video FeatureSPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay WidgetConvenient HotkeyBlue Light Filter  I/O PortsSignal Input : USB Type-C 	    Power ConsumptionPower Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0WMechanical DesignChassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      DimensionsPhys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      WeightNet Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      AccessoriesASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      OS CompatibilityMicrosoft Windows, Mac OS, Chrome OS, Linux	      Compliance and StandardsEnergy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      Note		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      
+li, {}, DisplayPanel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free 
+span, {'class': ['spec-item']}, Display
+div, {'class': ['spec-data']}, Panel Size:  Wide Screen 15.6"(39.6cm) 16:9Panel Type : IPSTrue Resolution : 1920x1080	Display Viewing Area(HxV) : 344.16  x 193.59  mmDisplay SurfaceGlarePixel Pitch :   mmBrightness(Max) : 220 cd/㎡Contrast Ratio (Max) : 800:1Flicker free 
+strong, {}, Panel Size: 
+br, {}, 
+strong, {}, Panel Type :
+br, {}, 
+strong, {}, True Resolution : 
+br, {}, 
+strong, {}, Display Viewing Area(HxV) : 
+br, {}, 
+strong, {}, Display Surface
+br, {}, 
+strong, {}, Pixel Pitch : 
+br, {}, 
+strong, {}, Brightness(Max) : 
+br, {}, 
+strong, {}, Contrast Ratio (Max) : 
+br, {}, 
+strong, {}, Flicker free 
+li, {}, Video FeatureSPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay Widget
+span, {'class': ['spec-item']}, Video Feature
+div, {'class': ['spec-data']}, SPLENDID Video Preset Modes : 	      	8 Modes (sRGB Mode/Scenery Mode/Theater Mode/Standard Mode/Night View Mode/Game Mode/Reading Mode/Darkroom Mode)QuickFit (modes) : Yes (Alignment Grid/Photo Modes)GamePlus(modes) :  Yes (Crosshair/Timer)Low Blue Light : YesHDCP support : Auto-rotate : YesDisplay Widget
+strong, {}, SPLENDID Video Preset Modes : 
+br, {}, 
+strong, {}, QuickFit (modes) :
+br, {}, 
+strong, {}, GamePlus(modes) : 
+br, {}, 
+strong, {}, Low Blue Light : 
+br, {}, 
+strong, {}, HDCP support : 
+br, {}, 
+strong, {}, Auto-rotate : 
+br, {}, 
+strong, {}, Display Widget
+li, {}, Convenient HotkeyBlue Light Filter  
+span, {'class': ['spec-item']}, Convenient Hotkey
+div, {'class': ['spec-data']}, Blue Light Filter  
+li, {}, I/O PortsSignal Input : USB Type-C 	    
+span, {'class': ['spec-item']}, I/O Ports
+div, {'class': ['spec-data']}, Signal Input : USB Type-C 	    
+strong, {}, Signal Input : 
+li, {}, Power ConsumptionPower Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0W
+span, {'class': ['spec-item']}, Power Consumption
+div, {'class': ['spec-data']}, Power Consumption(Typical):<8W*Power Saving Mode:0WPower Off Mode:0W
+br, {}, 
+br, {}, 
+br, {}, 
+li, {}, Mechanical DesignChassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      
+span, {'class': ['spec-item']}, Mechanical Design
+div, {'class': ['spec-data']}, Chassis Colors : Dark graySlim Design : YesSuper Narrow Bezel Design : Yes	      
+strong, {}, Chassis Colors :
+br, {}, 
+strong, {}, Slim Design :
+br, {}, 
+strong, {}, Super Narrow Bezel Design :
+li, {}, DimensionsPhys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      
+span, {'class': ['spec-item']}, Dimensions
+div, {'class': ['spec-data']}, Phys. Dimension(WxHxD):359.7 x 226.4 x 8.0 mm		Box Dimension(WxHxD):434 x 310 x 76 mm	      
+br, {}, 
+li, {}, WeightNet Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      
+span, {'class': ['spec-item']}, Weight
+div, {'class': ['spec-data']}, Net Weight(Esti.):0.78kgGross Weight(Esti.):3.0kg	      
+br, {}, 
+li, {}, AccessoriesASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      
+span, {'class': ['spec-item']}, Accessories
+div, {'class': ['spec-data']}, ASUS Smart CaseDisplayPort™ over USB-C™ cable (USB-C to USB-C)USB Type-C to A adapterZenScreen penQuick start guide	      
+br, {}, 
+br, {}, 
+br, {}, 
+br, {}, 
+li, {}, OS CompatibilityMicrosoft Windows, Mac OS, Chrome OS, Linux	      
+span, {'class': ['spec-item']}, OS Compatibility
+div, {'class': ['spec-data']}, Microsoft Windows, Mac OS, Chrome OS, Linux	      
+li, {}, Compliance and StandardsEnergy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      
+span, {'class': ['spec-item']}, Compliance and Standards
+div, {'class': ['spec-data']}, Energy Star®, BSMI, CB, CCC, CE, FCC, KCC, RoHS, UkrSEPRO, UL/cUL, VCCI, WEEE, WHQL (Windows 10, Windows 8.1, Windows 7), RCM, TUV Flicker-free , TUV Low Blue Light, CU(EAC)	      
+li, {}, Note		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      
+span, {'class': ['spec-item']}, Note
+div, {'class': ['spec-data']}, 		*measuring a screen brightness of 200 nits without audio/ USB/ Card reader connection**Drivers are required for USB 3.0 mode, please find Support Site to download the driver***Brightness may drop to 180 cd/m2 when in USB 3.0 mode****Auto Rotate requires the Windows OS and DisplayWidget to be installed*****Compatible with Thunderbolt 3	      
+br, {}, 
+br, {}, 
+br, {}, 
+br, {}, 
+br, {}, 
+br, {}, 
+br, {}, 
+br, {}, 
+label, {'id': 'NBSpecNotic', 'class': ['hide']}, Buy Microsoft ® Office 2010 to use the full-featured Office software on this PC.
